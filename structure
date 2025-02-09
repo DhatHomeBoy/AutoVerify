@@ -1,0 +1,2 @@
+mkdir src docs models contracts
+touch README.md CONTRIBUTING.md LICENSE
